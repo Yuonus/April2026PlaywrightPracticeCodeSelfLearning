@@ -1,0 +1,28 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="9.07858">
+<testsuite name="reporters.spec.js" timestamp="2026-04-20T19:44:25.986Z" hostname="chromium" tests="3" failures="0" skipped="0" time="7.471" errors="0">
+<testcase name="1st Test -- DemoBlaze.com" classname="reporters.spec.js" time="1.07">
+<system-out>
+<![CDATA[Demo Blaze Page title is: STORE
+
+[[ATTACHMENT|test-results\reporters-1st-Test----DemoBlaze-com-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="2nd Test -- OrangeHRM.com" classname="reporters.spec.js" time="4.112">
+<system-out>
+<![CDATA[OrangeHRM page title is: OrangeHRM
+
+[[ATTACHMENT|test-results\reporters-2nd-Test----OrangeHRM-com-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="3rd Test -- YourStore.com" classname="reporters.spec.js" time="2.289">
+<system-out>
+<![CDATA[YourStore page title is: Account Login
+
+[[ATTACHMENT|test-results\reporters-3rd-Test----YourStore-com-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
