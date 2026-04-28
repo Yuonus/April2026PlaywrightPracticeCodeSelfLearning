@@ -14,8 +14,6 @@ test.skip('Automating Keyboard Actions', async ({ page }) => {
     await page.keyboard.up('Tab');
 
     await page.keyboard.press('Control+V');
-
-
     await page.waitForTimeout(3000);
 
 });
